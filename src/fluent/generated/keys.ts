@@ -9,6 +9,10 @@ declare global {
                         table: 'sys_module'
                         id: '6e947047e6f54c9eb0f62bb607d0e293'
                     }
+                    e7f324f3fcf042de9bd510a772092a4f: {
+                        table: 'sys_script_include'
+                        id: 'e7f324f3fcf042de9bd510a772092a4f'
+                    }
                     package_json: {
                         table: 'sys_module'
                         id: '912975aabbb04720ba30a767c4742bcc'
